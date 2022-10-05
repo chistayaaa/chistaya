@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name":"Саша Чистякова",
+    "description":"Junior frontend-разработчик",
+    "image":"profilepic.jpg",
+    "bio":"Я начинающий Web-разрабочик. Увлечение этой сферой началось с университета и программирования микроконтроллеров. Сейчас продолжаю погружаться в область fronted-разработки и изучаю SCL. В свободное время хожу на йогу, гуляю по Петербургу и снимаю это на видео :)",
+    "contactmessage":"Сейчас я нахожусь в поиске работы. Буду рада обсудить с вами проект или же ответить на вопросы по почте :)",
+    "email": "chistayaaa@yandex.ru",
+    "phone": "79319721623",
+    "github":"https://github.com/chistayaaa",
+    "project":"https://github.com/chistayaaa",
+    "address":{
+      "city":"Cанкт-Петербург",
+      "country":"Россия"
+    },
+    "website": "",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/c/SashaChistyakova",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/chistayaaa",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/chistayaaa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"В течение года я практиковалась в изучении разработки, и  вот с чем я умею работать: ",
+    "education":[
+      {
+        "school":"Санкт-Петербургский университет Аэрокосмического приборостроения",
+        "profile": "Приборостроение авиационных комплексов и систем",
+        "degree": "Система контроля параметров замкнутой биосистемы",
+        "graduated":"Июнь 2020. Диплом с отличием."
+      },
+      {
+        "school":"Skillbox",
+        "profile":"Веб-разработчик",
+        "degree":"Онлайн курсы по HTML, JS, React и Vue.",
+        "graduated":"Август 2022."
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg",
+        "name":"html"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg",
+        "name":"css"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg",
+        "name":"javascript"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+        "name":"react"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg",
+        "name":"vue"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg",
+        "name":"git"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg",
+        "name":"npm"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg",
+        "name":"webpack"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-plain-wordmark.svg",
+        "name":"intellij"
+      },
+      {
+        "url":"https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg",
+        "name":"vscode"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Страница для бизнеса",
+        "about": "Страница для бизнеса с адаптивной версткой (пк, телефоны). Есть слайдер, бургер, валидная форма, аккардион, свайпер и скролл. Сделана с использованием bootstrap и normilize css.",
+        "category":"CSS, HTML, JS",
+        "image":"site1.jpg",
+        "url":"https://chistayaaa.github.io/page-evclid/ "
+      },
+      {
+        "title": "Магазин электронники",
+        "about": "Реализованный магазин электронники: фильтрация, пагинация, оформление заказа, работа с store (vuex) и API.",
+        "category": "Vue.js, JS, HTML",
+        "image": "site2.jpg",
+        "url":"https://chistayaaa.github.io/vue-store-app/#/"
+      },
+      {
+        "title":"Страница отеля",
+        "about": "Страница отеля с формой выбора даты, списком отелей и контактами.",
+        "category":"HTML, CSS",
+        "image":"site3.jpg",
+        "url":"https://chistayaaa.github.io/page-hotel/ "
+      },
+      {
+        "title":"Книжный магазин",
+        "about": "Примитивный книжный магазин на React-Redux. Добавление книг в коризину, обновление их, доступ к store.",
+        "category":"React.js, JS",
+        "image":"site4.jpg",
+        "url":"https://chistayaaa.github.io/react-bookstore/ "
+      }
+    ]
+  }
+}
