@@ -102,18 +102,18 @@
   },
   "portfolio":{
     "projects": [
-        {
+       {
         "title":"Таймер",
         "about": "Приложение-таймер для работы с тремя методами + опциональный метод настройки таймера. Есть звуковые оповещения, автоматическая смена циклов и фоновая музыка.",
         "category":"Vue.js, JS, HTML",
         "image":"site5.jpg",
         "url":"https://chistayaaa.github.io/timer/"
        },
-        {
+       {
         "title":"Игра Сапер",
         "about": "Игра сапер идентичная игре на Windows. Логика и интерфейс.",
         "category":"Vue.js, JS, HTML",
-        "image":"saper.png",
+        "image":"site5.jpg",
         "url":"https://chistayaaa.github.io/saper/"
       },
       {
