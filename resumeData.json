@@ -109,7 +109,14 @@
         "image":"site5.jpg",
         "url":"https://chistayaaa.github.io/timer/"
       },
-       {
+        {
+        "title":"Игра Сапер",
+        "about": "Игра сапер идентичная игре на Windows. Логика и интерфейс.",
+        "category":"Vue.js, JS, HTML",
+        "image":"saper.png",
+        "url":"https://chistayaaa.github.io/saper/"
+      },
+      {
         "title":"Новости",
         "about": "Интерфейс сайта с новостями. Подгружаются и обновляются последние новости, загружается дерево комментарий.",
         "category":"React.js, JS",
@@ -137,13 +144,6 @@
         "image":"site3.jpg",
         "url":"https://chistayaaa.github.io/page-hotel/ "
       },
-      {
-        "title":"Книжный магазин",
-        "about": "Примитивный книжный магазин на React-Redux. Добавление книг в коризину, обновление их, доступ к store.",
-        "category":"React.js, JS",
-        "image":"site4.jpg",
-        "url":"https://chistayaaa.github.io/react-bookstore/ "
-      }
     ]
   }
 }
