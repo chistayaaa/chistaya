@@ -111,7 +111,7 @@
        },
        {
         "title":"Игра Сапер",
-        "about": "Игра сапер идентичная игре на Windows. Логика и интерфейс.",
+        "about": "Игра сапер идентичная игре на Windows. Логика и интерфейс. Есть секундомер и счетчик мин.",
         "category":"Vue.js, JS, HTML",
         "image":"saper.jpg",
         "url":"https://chistayaaa.github.io/saper/"
