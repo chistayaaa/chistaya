@@ -110,6 +110,13 @@
         "url":"https://chistayaaa.github.io/timer/"
        },
        {
+        "title": "Магазин одежды",
+        "about": "Реализованный магазин одежды: фильтрация, избранное, оформление заказа, недавно просмотренные товары. Адаптив для телефонов, планшетов",
+        "category": "React.js, JS, HTML",
+        "image": "shop.jpg",
+        "url":"https://chistayaaa.github.io/react-shop/#/react-shop"
+      },
+       {
         "title":"Игра Сапер",
         "about": "Игра сапер идентичная игре на Windows. Логика и интерфейс. Есть секундомер и счетчик мин.",
         "category":"Vue.js, JS, HTML",
